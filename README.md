@@ -1,8 +1,8 @@
-# NTU_plant_science
+# 2018 植物科學研究技術與應用工作坊
 
-## Workshop I
+## Workshop I 植物與環境交互作用
 
-|     name     |    課程內容 |             blog                |
-| ------------ | ---------- | ------------------------------- |
-| _LearnShare_ |  植物光反應 | [LearnShare](http://xianbai.me) |
-| __Mike__     |  32 | [Mike](http://mike.me)          |
+|    時間      |    課程內容 |  負責教授  |         blog                |
+| ------------ | ------------------ | -----|------------------------------- |
+| _LearnShare_ |  植物光反應 | 謝旭亮|[LearnShare](http://xianbai.me) |
+| __Mike__     |  植物非生物逆境反應 |張英峯| [Mike](http://mike.me)          |
