@@ -5,7 +5,7 @@
 |    時間      |    課程內容 |  負責教授  |         講義連結                |
 | ------------ | ------------------ | -----|------------------------------- |
 | 9/11(Tu) |  植物光反應 | 謝旭亮|[講義](https://drive.google.com/open?id=1_wXh9_DRjxrMCUBJy1cxuQE8yeRn_knw) |
-| 9/13(Th)    |  植物非生物逆境反應 |張英峯| [講義](https://drive.google.com/open?id=1QjFLIFQ5fyOtzIIxDabaq-84lFnCff7a)          |
+| 9/13(Th)    |  植物非生物逆境反應 |張英峯| [上課內容](https://drive.google.com/file/d/16zZXGPLAniIlKeByT4a7OgMBB2AnN1hN/view?usp=sharing)、[步驟](https://drive.google.com/open?id=1QjFLIFQ5fyOtzIIxDabaq-84lFnCff7a)          |
 |9/13(Th)| 植物共生/生物性逆境反應|楊淑怡| [上課內容](https://drive.google.com/file/d/1X5fVdIoEAf8Pyii9AJBawKvKJQ5CyFbc/view?usp=sharing)、[步驟](https://drive.google.com/open?id=1lXSDh_ID2lxA9-1ZQusJTqXprVQV9IP2) |
 
 ## Workshop II 植物基因特性分析
@@ -13,7 +13,7 @@
 |    時間      |    課程內容 |  負責教授  |         講義連結                |
 | ------------ | ------------------ | -----|------------------------------- |
 | 9/18(Tu) |  植物生物資訊 | 李承叡|未上傳 |
-| 9/20(Th)    |  植物基因啟動子 |靳宗洛|未上傳          |
+| 9/20(Th)    |  植物基因啟動子 |靳宗洛|[講義1](https://drive.google.com/file/d/1TyZJiT9ZHDalYv5I847roZWtaolsT1gq/view?usp=sharing)[講義2](https://drive.google.com/file/d/1bTwnJXb6-Sx2VwPansJYTSk1Wov5a4yz/view?usp=sharing)          |
 |9/20(Th)| 蛋白質結構學與檢測|鄭貽生| 未上傳|
 
 ## Workshop III 植物細胞學與應用
