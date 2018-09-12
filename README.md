@@ -8,6 +8,8 @@
 | 9/13(Th)    |  植物非生物逆境反應 |張英峯| [上課內容](https://drive.google.com/file/d/16zZXGPLAniIlKeByT4a7OgMBB2AnN1hN/view?usp=sharing)、[步驟](https://drive.google.com/open?id=1QjFLIFQ5fyOtzIIxDabaq-84lFnCff7a)          |
 |9/13(Th)| 植物共生/生物性逆境反應|楊淑怡| [上課內容](https://drive.google.com/file/d/1X5fVdIoEAf8Pyii9AJBawKvKJQ5CyFbc/view?usp=sharing)、[步驟](https://drive.google.com/open?id=1lXSDh_ID2lxA9-1ZQusJTqXprVQV9IP2) |
 
+* 9/11 [植物光反應實驗結果](https://drive.google.com/drive/folders/1qzRK3r7Bs-1CtEupOcQUb23xzh_2Wn7g)
+
 ## Workshop II 植物基因特性分析
 
 |    時間      |    課程內容 |  負責教授  |         講義連結                |
