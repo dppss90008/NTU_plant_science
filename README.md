@@ -10,6 +10,7 @@
 
 * 9/11 [植物光反應實驗結果](https://drive.google.com/drive/folders/1qzRK3r7Bs-1CtEupOcQUb23xzh_2Wn7g)
 * 9/13 [植物共生/生物逆境反應](https://drive.google.com/drive/folders/1HjMOVMsZ1RUOAG0fuPop8AtiLxrssCDh?usp=sharing)
+* 備註 : 同學們可以觀察謝米柔同學照的孢子(檔案:孢子from 謝米柔.jpg)
 
 ## Workshop II 植物基因特性分析
 
