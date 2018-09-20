@@ -16,9 +16,9 @@
 
 |    時間      |    課程內容 |  負責教授  |         講義連結                |
 | ------------ | ------------------ | -----|------------------------------- |
-| 9/18(Tu) |  植物生物資訊 | 李承叡|未上傳 |
+| 9/18(Tu) |  植物生物資訊 | 李承叡|[課程連結](https://drive.google.com/drive/folders/1i2J8WaX5ftw5720fuCi794A2MjiWk0Nt?usp=sharing) |
 | 9/20(Th)    |  植物基因啟動子 |靳宗洛|[講義1](https://drive.google.com/file/d/1TyZJiT9ZHDalYv5I847roZWtaolsT1gq/view?usp=sharing)、[講義2](https://drive.google.com/file/d/1bTwnJXb6-Sx2VwPansJYTSk1Wov5a4yz/view?usp=sharing)          |
-|9/20(Th)| 蛋白質結構學與檢測|鄭貽生| 未上傳|
+|9/20(Th)| 蛋白質結構學與檢測|鄭貽生| 無講義|
 
 ## Workshop III 植物細胞學與應用
 
