@@ -29,6 +29,7 @@
 |10/4(Th)| 植體內蛋白質互作|吳克強| [上課內容](https://drive.google.com/file/d/1SVeJn19kEKQWKz6aIA7RSH7iwHCMpjIw/view?usp=sharing)、[實驗](https://drive.google.com/file/d/1JxsHXNtY339FGX2_5qGnBmiyNeMFVF9d/view?usp=sharing) |
 
 * [Workshop III 整體上課流程](https://drive.google.com/file/d/1hSfp9MuLKv_KMQ2xTDoHEjVq1Ot7meXx/view?usp=sharing)
+* [原生質體實驗照片](https://drive.google.com/drive/folders/1DvwqrL8TDr50d5-Nw3ob8jQ9Bdy7nVpG?usp=sharing)
 
 ## Workshop IV 植物基因功能分析
 
