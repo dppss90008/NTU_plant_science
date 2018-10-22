@@ -25,7 +25,7 @@
 |    時間      |    課程內容 |  負責教授  |         講義連結                |
 | ------------ | ------------------ | -----|------------------------------- |
 | 10/2(Tu) |  植物原生質體製備 | 林盈仲|[講義](https://drive.google.com/open?id=1Rkcl4LP_PZC_IWOdZkuwZfyZz18_silQ) |
-| 10/4(Th)    | 蛋白質之細胞座落位置 |王雅筠| 未上傳          |
+| 10/4(Th)    | 蛋白質之細胞座落位置 |王雅筠| [講義](https://drive.google.com/file/d/18tmyinnQvo2sJJmmr3f4YlIe6RHZRJmR/view?usp=sharing)          |
 |10/4(Th)| 植體內蛋白質互作|吳克強| [上課內容](https://drive.google.com/file/d/1SVeJn19kEKQWKz6aIA7RSH7iwHCMpjIw/view?usp=sharing)、[實驗](https://drive.google.com/file/d/1JxsHXNtY339FGX2_5qGnBmiyNeMFVF9d/view?usp=sharing) |
 
 * [Workshop III 整體上課流程](https://drive.google.com/file/d/1hSfp9MuLKv_KMQ2xTDoHEjVq1Ot7meXx/view?usp=sharing)
